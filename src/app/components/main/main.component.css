@@ -1,0 +1,10 @@
+div{
+  text-align: center;
+}
+
+img{
+  border: 2px solid green;
+  width: 150px;
+  height: 150px;
+  margin-top: 20px;
+}
